@@ -1,5 +1,3 @@
-<h1 align="center">THEPSYENTIST Github Repository에 오신것을 환영합니다</h1>
-<br />
 <br />
 <div align="center">
   <img src="https://github.com/thepsyentist-public/.github/assets/39726717/fd63d75d-8042-4818-b44c-5fe61c04a66e" width="150" />
